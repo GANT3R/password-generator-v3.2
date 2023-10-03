@@ -1,4 +1,4 @@
-# Password Generator 2.1
+# Password Generator 3.2
 # Librarys
 import PySimpleGUI as sg
 import random as r
