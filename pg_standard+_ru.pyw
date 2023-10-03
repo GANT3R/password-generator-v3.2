@@ -40,9 +40,6 @@ components_left = [
     [sg.Checkbox('!@%', key='-SYM_BOX-')],
 ]
 
-# components_left = [
-#     [sg.Frame('Компоненты', [[sg.Column(components_leftt)]])]
-#     ]
 copy_size = 6, 1
 components_right = [
     [sg.InputText('', size=(37,1), key='-OUTPUT1-'), sg.Button('Копир.', size=copy_size, key='-COPY_PASS_1-')],
